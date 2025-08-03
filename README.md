@@ -42,7 +42,6 @@
 
 ### 📊 GitHub Stats:
 
-![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supriya-Coding&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya-Coding&layout=compact&theme=radical)
 
